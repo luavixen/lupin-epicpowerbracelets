@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#-#",
+        "-*-",
+        "#-#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "-": {
+            "item": "minecraft:gold_ingot"
+        },
+        "*": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "epicpowerbracelets:slow_fall_bracelet",
+        "count": 1
+    }
+}

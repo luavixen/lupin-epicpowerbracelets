@@ -1,0 +1,37 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+
+license = "UNLICENSED"
+
+[[mods]]
+modId = "epicpowerbracelets"
+version = "${version}"
+
+displayName = "Epic Power Bracelets"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/epic-power-bracelets"
+
+authors = "lupiiin_, luavixen <lua@foxgirl.dev> (https://foxgirl.dev/)"
+description = "Magical bracelets that give you powers!"
+
+logoFile = "epicpowerbracelets_logo.png"
+
+[[dependencies.epicpowerbracelets]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[20.2,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.epicpowerbracelets]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[${mcversion},)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.epicpowerbracelets]]
+modId = "architectury"
+mandatory = true
+versionRange = "[9.0.0,)"
+ordering = "AFTER"
+side = "BOTH"

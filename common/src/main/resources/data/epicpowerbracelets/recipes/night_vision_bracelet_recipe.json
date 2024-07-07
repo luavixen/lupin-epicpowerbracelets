@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#-#",
+        "-*-",
+        "#-#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "-": {
+            "item": "minecraft:gold_ingot"
+        },
+        "*": {
+            "item": "minecraft:golden_carrot"
+        }
+    },
+    "result": {
+        "item": "epicpowerbracelets:night_vision_bracelet",
+        "count": 1
+    }
+}

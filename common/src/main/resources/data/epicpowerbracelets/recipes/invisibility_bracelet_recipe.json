@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#-#",
+        "-*-",
+        "#-#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "-": {
+            "item": "minecraft:gold_ingot"
+        },
+        "*": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "epicpowerbracelets:invisibility_bracelet",
+        "count": 1
+    }
+}

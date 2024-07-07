@@ -1,0 +1,6 @@
+{
+    "parent": "epicpowerbracelets:item/bracelet",
+    "textures": {
+        "0": "epicpowerbracelets:item/slow_fall_bracelet"
+    }
+}

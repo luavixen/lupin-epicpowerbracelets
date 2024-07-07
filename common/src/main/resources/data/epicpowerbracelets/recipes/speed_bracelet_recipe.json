@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#-#",
+        "-*-",
+        "#-#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+        "-": {
+            "item": "minecraft:gold_ingot"
+        },
+        "*": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+        "item": "epicpowerbracelets:speed_bracelet",
+        "count": 1
+    }
+}

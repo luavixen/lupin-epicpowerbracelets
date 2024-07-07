@@ -1,0 +1,6 @@
+{
+  "parent": "epicpowerbracelets:item/bracelet",
+  "textures": {
+    "0": "epicpowerbracelets:item/invisibility_bracelet"
+  }
+}

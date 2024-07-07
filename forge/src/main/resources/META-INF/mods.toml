@@ -18,7 +18,7 @@ logoFile = "epicpowerbracelets_logo.png"
 [[dependencies.epicpowerbracelets]]
 modId = "forge"
 mandatory = true
-versionRange = "[46.0,)"
+versionRange = "[51.0,)"
 ordering = "NONE"
 side = "BOTH"
 
@@ -27,11 +27,4 @@ modId = "minecraft"
 mandatory = true
 versionRange = "[${mcversion},)"
 ordering = "NONE"
-side = "BOTH"
-
-[[dependencies.epicpowerbracelets]]
-modId = "architectury"
-mandatory = true
-versionRange = "[9.0.0,)"
-ordering = "AFTER"
 side = "BOTH"

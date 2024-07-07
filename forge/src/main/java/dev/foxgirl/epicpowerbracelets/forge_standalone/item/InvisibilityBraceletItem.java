@@ -1,4 +1,4 @@
-package dev.foxgirl.epicpowerbracelets.item;
+package dev.foxgirl.epicpowerbracelets.forge_standalone.item;
 
 import net.minecraft.core.Holder;
 import net.minecraft.world.effect.MobEffect;

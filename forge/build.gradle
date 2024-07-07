@@ -27,7 +27,7 @@ configurations {
 dependencies {
     forge "net.minecraftforge:forge:${rootProject.forge_loader_version}"
 
-    modImplementation "dev.architectury:architectury-forge:${rootProject.architectury_api_version}"
+    // modImplementation "dev.architectury:architectury-forge:${rootProject.architectury_api_version}"
 
     common(project(path: ':common', configuration: 'namedElements')) { transitive false }
     shadowCommon(project(path: ':common', configuration: 'transformProductionFabric')) { transitive false }

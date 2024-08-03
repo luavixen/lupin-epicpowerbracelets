@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "equipment",
     "pattern": [
         "#-#",
         "-*-",
@@ -13,11 +14,11 @@
             "item": "minecraft:gold_ingot"
         },
         "*": {
-            "item": "minecraft:ender_eye"
+            "item": "minecraft:blaze_powder"
         }
     },
     "result": {
-        "item": "epicpowerbracelets:invisibility_bracelet",
+        "id": "epicpowerbracelets:strength_bracelet",
         "count": 1
     }
 }

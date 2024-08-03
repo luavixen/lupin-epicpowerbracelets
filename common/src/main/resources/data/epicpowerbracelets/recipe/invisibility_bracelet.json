@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "equipment",
     "pattern": [
         "#-#",
         "-*-",
@@ -13,11 +14,11 @@
             "item": "minecraft:gold_ingot"
         },
         "*": {
-            "item": "minecraft:phantom_membrane"
+            "item": "minecraft:ender_eye"
         }
     },
     "result": {
-        "item": "epicpowerbracelets:slow_fall_bracelet",
+        "id": "epicpowerbracelets:invisibility_bracelet",
         "count": 1
     }
 }

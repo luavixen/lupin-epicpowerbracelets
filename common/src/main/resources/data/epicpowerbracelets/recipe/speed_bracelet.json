@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "equipment",
     "pattern": [
         "#-#",
         "-*-",
@@ -13,11 +14,11 @@
             "item": "minecraft:gold_ingot"
         },
         "*": {
-            "item": "minecraft:golden_carrot"
+            "item": "minecraft:nether_wart"
         }
     },
     "result": {
-        "item": "epicpowerbracelets:night_vision_bracelet",
+        "id": "epicpowerbracelets:speed_bracelet",
         "count": 1
     }
 }
